@@ -1,3 +1,66 @@
+
+# Firebase config - Don't upload this!
+GoogleService-Info.plist
+
+# Xcode default ignores
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace/xcuserdata
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+Package.pins
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Fastlane (如有)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archive files
+*.xcarchive
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# User-specific
+*.moved-aside
+*.swp
+*.xcuserstate
+.idea/
+*.iml
+
+# 本地测试数据（如果你 JSON 文件是临时的）
+*.json
+
+# 密钥和敏感配置
+*.p12
+*.mobileprovision
+*.cer
+*.key
+.env
+*.env.*
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -34,3 +97,12 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Certificates and private keys
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+

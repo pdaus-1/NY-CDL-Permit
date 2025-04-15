@@ -1,0 +1,30 @@
+[
+  {
+    "question": "The air brake system consists of three different systems. They are the service brake, the parking brake and the:",
+    "options": [
+      "Foot brake",
+      "Emergency brake",
+      "S-cam brake"
+    ],
+    "correct": "Emergency brake"
+  },
+  {
+    "question": "The brake pedal in an air brake system:",
+    "options": [
+      "Controls the speed of the air compressor",
+      "Controls the air pressure applied to put on the brakes",
+      "Is connected to the slack adjusters"
+    ],
+    "correct": "Controls the air pressure applied to put on the brakes"
+  },
+  {
+    "question": "If the air compressor develops a leak, what keeps the air in the tanks?",
+    "options": [
+      "The tank check valve",
+      "The air compressor governor",
+      "The drain valve"
+    ],
+    "correct": "The tank check valve"
+  }
+]
+

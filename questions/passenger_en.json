@@ -1,0 +1,902 @@
+[
+  {
+    "question": "A school bus must have at least how many emergency exits?",
+    "options": [
+      "C. 2",
+      "A. 4",
+      "B. 1"
+    ],
+    "correct": "C. 2"
+  },
+  {
+    "question": "What color are all school buses painted?",
+    "options": [
+      "C. National school bus yellow",
+      "A. Fluorescent yellow",
+      "B. Orange yellow"
+    ],
+    "correct": "C. National school bus yellow"
+  },
+  {
+    "question": "To be a school bus driver an individual must pass the following written tests:",
+    "options": [
+      "A. CDL general knowledge, passenger endorsement, school bus endorsement",
+      "B. CDL general knowledge, air brakes endorsement, school bus endorsement",
+      "C. CDL general knowledge, hazardous materials endorsement, school bus endorsement"
+    ],
+    "correct": "A. CDL general knowledge, passenger endorsement, school bus endorsement"
+  },
+  {
+    "question": "Most states require school bus drivers take a physical examination:",
+    "options": [
+      "B. Annually",
+      "A. Every 5 years",
+      "C. Every 3 years"
+    ],
+    "correct": "B. Annually"
+  },
+  {
+    "question": "What should you do if you have lost ABS control at some or more wheels?",
+    "options": [
+      "B. Drive normally because you still have regular brakes but have the system serviced soon",
+      "A. Call dispatch to report the problem",
+      "C. Drive faster so your ABS yellow malfunction light will go out"
+    ],
+    "correct": "B. Drive normally because you still have regular brakes but have the system serviced soon"
+  },
+  {
+    "question": "How far should students exit the bus and walk?",
+    "options": [
+      "B. At least 10 feet away from the side of the bus",
+      "A. The distance it takes to clear the danger zone",
+      "C. At least 8 feet away from the side of the bus"
+    ],
+    "correct": "B. At least 10 feet away from the side of the bus"
+  },
+  {
+    "question": "What is a passive railroad crossing?",
+    "options": [
+      "B. A railroad crossing that does not have any type of traffic control device",
+      "A. A railroad crossing that is no longer in use",
+      "C. A railroad crossing that has a traffic control device installed at the crossing"
+    ],
+    "correct": "B. A railroad crossing that does not have any type of traffic control device"
+  },
+  {
+    "question": "In addition to checking for spare electrical fuses, three red reflective triangles, and a properly charged and rated fire extinguisher, school bus drivers must also inspect the following emergency equipment:",
+    "options": [
+      "C. Three red burning flares, a nine-item first aid kit",
+      "A. Three red burning flares, safety belts in all seats",
+      "B. Three flares of any type and alcohol"
+    ],
+    "correct": "C. Three red burning flares, a nine-item first aid kit"
+  },
+  {
+    "question": "A battery box check is important. The battery must be secure, connections must be tight, and cell caps must be present. In addition, these items should be checked:",
+    "options": [
+      "C. Battery connections should not show signs of excessive corrosion, and the battery box and cover or door should not be damaged and should be secure",
+      "A. Battery connection should show signs of excessive wear",
+      "B. Battery connections should not show signs of excessive corrosion, but the battery box and cover to door is unimportant"
+    ],
+    "correct": "C. Battery connections should not show signs of excessive corrosion, and the battery box and cover or door should not be damaged and should be secure"
+  },
+  {
+    "question": "When checking the handicap lift, the things you should look for are:",
+    "options": [
+      "B. Leaking, damaged, or missing parts and make sure the lift is fully retracted and latched",
+      "A. Leaking, damaged, or missing wheelchairs",
+      "C. Leaking, damaged, or missing parts and make sure the lift is 35% retracted and latched"
+    ],
+    "correct": "B. Leaking, damaged, or missing parts and make sure the lift is fully retracted and latched"
+  },
+  {
+    "question": "What is the value of the overhead rearview mirror inside the bus?",
+    "options": [
+      "A. To monitor passenger activity",
+      "B. To monitor the driver’s appearance",
+      "C. To provide visibility directly in the back of the bus"
+    ],
+    "correct": "A. To monitor passenger activity"
+  },
+  {
+    "question": "When should you activate your alternating flashing amber warning lights?",
+    "options": [
+      "A. 100 to 300 feet before the school bus stop",
+      "B. 300 to 500 feet before the school bus stop",
+      "C. None of the above"
+    ],
+    "correct": "B. 300 to 500 feet before the school bus stop"
+  },
+  {
+    "question": "At a railroad crossing, the bus is required to stop at the stop line or, if there is no clearly marked stop line, what is the required minimum and maximum stopping distance?",
+    "options": [
+      "A. No closer than 15 feet and no further than 30 feet",
+      "B. No closer than 10 feet and no further than 40 feet",
+      "C. No closer than 15 feet and no further than 50 feet"
+    ],
+    "correct": "C. No closer than 15 feet and no further than 50 feet"
+  },
+  {
+    "question": "Out of all the spaces around the bus, the most important one is:",
+    "options": [
+      "A. On the side",
+      "B. To the rear",
+      "C. To the front"
+    ],
+    "correct": "C. To the front"
+  },
+  {
+    "question": "The bus driver must accept responsibility for supervising and controlling students while on the bus route. Who is the person in charge?",
+    "options": [
+      "A. Bus driver",
+      "B. Student on the bus",
+      "C. Parents of students on the bus"
+    ],
+    "correct": "A. Bus driver"
+  },
+  {
+    "question": "The school bus driver may be the only contact person from the school system that some parents meet. The percentage of such parents is as high as:",
+    "options": [
+      "A. 50%",
+      "B. 65%",
+      "C. 85%"
+    ],
+    "correct": "C. 85%"
+  },
+  {
+    "question": "The driver who misses unloading a child at the bus stop should:",
+    "options": [
+      "A. Radio the dispatch for direction and follow local procedures",
+      "B. Back up to the missed stop",
+      "C. Discharge the child at the next stop"
+    ],
+    "correct": "A. Radio the dispatch for direction and follow local procedures"
+  },
+  {
+    "question": "Which of the following statements about bus evacuation procedures is true?",
+    "options": [
+      "A. If time allows, walk through the bus and close all the windows",
+      "B. If time allows, back up to the stop before evacuating the bus",
+      "C. If time allows, notify dispatch about the evacuation location, conditions, and type of assistance needed"
+    ],
+    "correct": "C. If time allows, notify dispatch about the evacuation location, conditions, and type of assistance needed"
+  },
+  {
+    "question": "Which of the following is a recommended procedure when unloading students?",
+    "options": [
+      "A. Put the transmission in neutral gear and put on the brakes",
+      "B. Position yourself outside of the bus in front of the crossover mirror to supervise",
+      "C. Tell students to remain seated until they are told to exit"
+    ],
+    "correct": "C. Tell students to remain seated until they are told to exit"
+  },
+  {
+    "question": "The most dangerous time during the school bus ride is:",
+    "options": [
+      "A. When the students become unruly on the bus",
+      "B. Crossing railway tracks",
+      "C. When loading and unloading students"
+    ],
+    "correct": "C. When loading and unloading students"
+  },
+  {
+    "question": "After deciding the type of evacuation that is necessary, the next step you must take is:",
+    "options": [
+      "A. Securing the bus",
+      "B. Notifying the dispatch office of the evacuation",
+      "C. Dangle the radio microphone out of the driver window for later use"
+    ],
+    "correct": "A. Securing the bus"
+  },
+  {
+    "question": "What is the safest way to stop unruly behavior on the bus?",
+    "options": [
+      "A. Keep checking the rearview mirror so you can see what's happened and report to the principal",
+      "B. Have the unruly students move to the front of the bus",
+      "C. Pull off the road in a safe location, secure the bus, stand up and tell the students what behavior you expect from them"
+    ],
+    "correct": "C. Pull off the road in a safe location, secure the bus, stand up and tell the students what behavior you expect from them"
+  },
+  {
+    "question": "Which of the following will confirm that you are driving a vehicle with Anti-lock Brakes (ABS)?",
+    "options": [
+      "A. Yellow ABS malfunction lamp on the instrument panel will light when you start the engine",
+      "B. The certification on the driver side door",
+      "C. Red indicator lamp on the brake cylinder"
+    ],
+    "correct": "A. Yellow ABS malfunction lamp on the instrument panel will light when you start the engine"
+  },
+  {
+    "question": "Anti-lock brakes:",
+    "options": [
+      "A. Work only when you activate the in-cab switch",
+      "B. Keep your wheels from locking up during hard brake application",
+      "C. Shorten your stopping distance"
+    ],
+    "correct": "B. Keep your wheels from locking up during hard brake application"
+  },
+  {
+    "question": "You should conduct a post-trip inspection:",
+    "options": [
+      "A. You should walk through the bus and around the bus",
+      "B. You should do and report results monthly",
+      "C. You should sweep inside the bus"
+    ],
+    "correct": "A. You should walk through the bus and around the bus"
+  },
+  {
+    "question": "If you are loading students on the road and cannot account for them:",
+    "options": [
+      "A. Secure the bus, take the key and check around and underneath the bus",
+      "B. Ask other students if they saw missing persons",
+      "C. Secure the bus and adjust the mirrors"
+    ],
+    "correct": "A. Secure the bus, take the key and check around and underneath the bus"
+  },
+  {
+    "question": "Passive railway crossing:",
+    "options": [
+      "A. The type of crossing with no crossbuck sign",
+      "B. The type of crossing which does not have any type of traffic control device",
+      "C. The type of crossing on which the driver does not have to stop"
+    ],
+    "correct": "B. The type of crossing which does not have any type of traffic control device"
+  },
+  {
+    "question": "You should adjust all the outside left and right side convex mirrors to see:",
+    "options": [
+      "A. 200 feet behind the bus",
+      "B. The entire area to the rear of the mirror along the side of the bus",
+      "C. The right and left rear tires touching the ground"
+    ],
+    "correct": "B. The entire area to the rear of the mirror along the side of the bus"
+  },
+  {
+    "question": "What school bus accidents should be reported?",
+    "options": [
+      "A. None",
+      "B. Only if there are injuries",
+      "C. All"
+    ],
+    "correct": "C. All"
+  },
+  {
+    "question": "When approaching a school bus stop, you should activate your overhead amber lights how far from the stop?",
+    "options": [
+      "A. 100 feet",
+      "B. 200 feet",
+      "C. 300 feet"
+    ],
+    "correct": "C. 300 feet"
+  },
+  {
+    "question": "What is the most important reason for doing a school bus inspection?",
+    "options": [
+      "A. To give the mechanic something to do",
+      "B. To assist the principal with their report",
+      "C. For safety required by federal, state and local laws"
+    ],
+    "correct": "C. For safety required by federal, state and local laws"
+  },
+  {
+    "question": "Immediately after stopping you should",
+    "options": [
+      "A. Tell the children to stand back until you are ready for them to load",
+      "B. Open entrance door slightly to activate the stop alarm and overhead red warning lights",
+      "C. Get the children onto the bus as quickly as possible"
+    ],
+    "correct": "B. Open entrance door slightly to activate the stop alarm and overhead red warning lights"
+  },
+  {
+    "question": "When approaching the stop, you should activate alternating flashing lights within how many feet before the stop?",
+    "options": [
+      "A. 100",
+      "B. 200",
+      "C. 300"
+    ],
+    "correct": "C. 300"
+  },
+  {
+    "question": "What is the next step after securing the bus when you have unruly child on board?",
+    "options": [
+      "A. Stand up and speak respectfully to the offender, if a change of seating is needed, have the student move to a seat near you.",
+      "B. Unload the students at the next stop",
+      "C. Call a school administrator or the police to remove the student"
+    ],
+    "correct": "A. Stand up and speak respectfully to the offender, if a change of seating is needed, have the student move to a seat near you."
+  },
+  {
+    "question": "You should adjust all the outside left and right side CROSSOVER mirrors to see:",
+    "options": [
+      "A. 200 feet behind the bus",
+      "B. The entire area to the rear of the mirror along the side of the bus",
+      "C. The left and right front tires touching the ground"
+    ],
+    "correct": "C. The left and right front tires touching the ground"
+  },
+  {
+    "question": "Overhead inside mirror is used:",
+    "options": [
+      "A. To see the blind spot immediately behind the bus",
+      "B. To see all of the students",
+      "C. To monitor traffic that approaches and enters the blind spot area"
+    ],
+    "correct": "B. To see all of the students"
+  },
+  {
+    "question": "When students must cross the street, when they get off the bus, which statement is true?",
+    "options": [
+      "A. When the driver signals that it is safe to proceed, the student must run across the street to reduce exposure to danger",
+      "B. For crossing students should make eye contact with the bus driver and wait for the driver signal that it is safe to proceed",
+      "C. If the bus is equipped with the crossing gate, the danger of running over a child is eliminated"
+    ],
+    "correct": "B. For crossing students should make eye contact with the bus driver and wait for the driver signal that it is safe to proceed"
+  },
+  {
+    "question": "You should adjust all the outside left and right side flat mirrors to see",
+    "options": [
+      "A. 200 feet behind the bus",
+      "B. The entire area to the rear of the mirror along the side of the bus",
+      "C. The rear right and left tires touching the ground"
+    ],
+    "correct": "C. The rear right and left tires touching the ground"
+  },
+  {
+    "question": "If the gate comes down as you start to cross the railroad highway crossing you should:",
+    "options": [
+      "A. Drive through the gate",
+      "B. Stop immediately and call your dispatcher",
+      "C. Back up until you are completely off the tracks"
+    ],
+    "correct": "A. Drive through the gate"
+  },
+  {
+    "question": "During loading and unloading students you should check your mirrors",
+    "options": [
+      "A. After entering traffic",
+      "B. After you close the door",
+      "C. Continuously during the entire process"
+    ],
+    "correct": "C. Continuously during the entire process"
+  },
+  {
+    "question": "Before crossing any highway-rail crossing in a school bus, be sure that bus has enough containment to completely clear the railroad tracks. As a general rule, how much space is considered an acceptable amount of containment for a school bus?",
+    "options": [
+      "A. The length of the bus plus 25 feet",
+      "B. The length of the bus plus 15 feet",
+      "C. The length of the bus plus 10 feet"
+    ],
+    "correct": "A. The length of the bus plus 25 feet"
+  },
+  {
+    "question": "The properly adjusted outside left and right side convex mirrors allow visibility in",
+    "options": [
+      "A. The entire side of the bus up to the front tires at ground level, front of the rear tires touching the ground and at least one traffic lane on either side of the bus",
+      "B. The area directly in front of the bus",
+      "C. Front of the rear tires touching the ground, the entire side of the bus up to the mirror mounts and at least one traffic lane on either side of the bus"
+    ],
+    "correct": "C. Front of the rear tires touching the ground, the entire side of the bus up to the mirror mounts and at least one traffic lane on either side of the bus"
+  },
+  {
+    "question": "Why is the proper adjustment and use of all mirrors so vital to the safe operation of a school bus?",
+    "options": [
+      "A. In order to observe the danger zone around the bus",
+      "B. In order to clear up blind spots around the bus",
+      "C. In order to observe the danger zone around the bus and look for students, traffic and other objects in this area"
+    ],
+    "correct": "C. In order to observe the danger zone around the bus and look for students, traffic and other objects in this area"
+  },
+  {
+    "question": "All mirrors should be viewed in what manner?",
+    "options": [
+      "A. Simultaneously every 4 seconds",
+      "B. In a logical sequence checking traffic and passengers every 5 seconds",
+      "C. In a logical sequence to ensure that a child or object is not in any of the danger zones"
+    ],
+    "correct": "C. In a logical sequence to ensure that a child or object is not in any of the danger zones"
+  },
+  {
+    "question": "Which of the following statements best explains what to do, when a school bus stalls on a track at a railroad crossing?",
+    "options": [
+      "A. Driver should evacuate the bus and have students in a group directly behind the bus",
+      "B. Driver should evacuate the bus and move students away from the tracks on the angle toward the oncoming train",
+      "C. Driver should keep everyone quiet and call dispatcher for directions"
+    ],
+    "correct": "B. Driver should evacuate the bus and move students away from the tracks on the angle toward the oncoming train"
+  },
+  {
+    "question": "You should activate hazard lights within approximately how many feet before a railroad crossing?",
+    "options": [
+      "A. 200 feet",
+      "B. 300 feet",
+      "C. 400 feet"
+    ],
+    "correct": "B. 300 feet"
+  },
+  {
+    "question": "School bus is one of the safest means of transportation. What two key factors contribute to this impressive safety record?",
+    "options": [
+      "A. Vehicles and police",
+      "B. Vehicles and drivers",
+      "C. Vehicles and road conditions"
+    ],
+    "correct": "B. Vehicles and drivers"
+  },
+  {
+    "question": "The golden rule for school buses when approaching and crossing railroad tracks is:",
+    "options": [
+      "A. Stop, go and stop",
+      "B. Stop, look and listen",
+      "C. Stop, look and turn off the radio"
+    ],
+    "correct": "B. Stop, look and listen"
+  },
+  {
+    "question": "Which of the following is a reason to evacuate the school bus?",
+    "options": [
+      "A. The bus ABS warning light is on",
+      "B. The bus is stalled on a railroad track but there is no train in sight",
+      "C. The bus is stalled on a shoulder of a 4-lane divided highway and it is getting hot inside"
+    ],
+    "correct": "B. The bus is stalled on a railroad track but there is no train in sight"
+  },
+  {
+    "question": "The blind spot behind the bus could extend to how many feet?",
+    "options": [
+      "A. 100",
+      "B. 200",
+      "C. 400"
+    ],
+    "correct": "C. 400"
+  },
+  {
+    "question": "By law, school buses must be equipped with a ___ light overhead warning system as a method of controlling traffic at a school bus stop.",
+    "options": [
+      "A. Four",
+      "B. Six",
+      "C. Eight"
+    ],
+    "correct": "C. Eight"
+  },
+  {
+    "question": "By law, the warning lights must only be used when approaching",
+    "options": [
+      "A. A busy intersection",
+      "B. Stop to load or unload students",
+      "C. Sharp turns"
+    ],
+    "correct": "B. Stop to load or unload students"
+  },
+  {
+    "question": "When stopping at a railroad crossing, the driver must stop no closer than",
+    "options": [
+      "A. 10 feet",
+      "B. 15 feet",
+      "C. 20 feet"
+    ],
+    "correct": "C. 20 feet"
+  },
+  {
+    "question": "Which of the following should you do when driving the school bus in high wind?",
+    "options": [
+      "A. Speed up to get away from the wind as quickly as possible",
+      "B. Keep a strong grip on the steering wheel and try to anticipate gust",
+      "C. Avoid pulling off the road to wait"
+    ],
+    "correct": "B. Keep a strong grip on the steering wheel and try to anticipate gust"
+  },
+  {
+    "question": "The CDL manual indicates that the last step for picking up students at the bus stop is as follows:",
+    "options": [
+      "A. Make a final check to confirm all traffic stops before opening the bus door and signaling to students to approach",
+      "B. Open the service door just enough to activate the alternating red light when traffic is in a safe distance from the bus",
+      "C. Place the transmission in park or neutral and set the parking brake"
+    ],
+    "correct": "A. Make a final check to confirm all traffic stops before opening the bus door and signaling to students to approach"
+  },
+  {
+    "question": "Which of the following statements about special danger of loading and unloading students is true?",
+    "options": [
+      "A. Students should be told to leave any dropped objects and move to the point of safety out of danger and get the driver’s attention to retrieve the object",
+      "B. Students should be told not to use the handrails when exiting the bus due to the possibility of causing clothing to hang up",
+      "C. Students should be told to pick up any dropped objects as long as they are not under the bus"
+    ],
+    "correct": "A. Students should be told to leave any dropped objects and move to the point of safety out of danger and get the driver’s attention to retrieve the object"
+  },
+  {
+    "question": "During loading or unloading procedure the students should cross the road in front of the bus within ___ feet",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 10"
+    ],
+    "correct": "B. 8"
+  },
+  {
+    "question": "Why is understanding the loading and unloading procedure so critical?",
+    "options": [
+      "A. Because only high school students understand how to cross the road",
+      "B. Because more students are killed while getting on and off a school bus each year",
+      "C. Because motorists ignore students walking to school"
+    ],
+    "correct": "B. Because more students are killed while getting on and off a school bus each year"
+  },
+  {
+    "question": "Check that the entry door is not damaged and",
+    "options": [
+      "A. Operates smoothly and closes securely from the outside",
+      "B. Operates smoothly and closes securely from the inside",
+      "C. Operates smoothly and closes securely from the remote location"
+    ],
+    "correct": "B. Operates smoothly and closes securely from the inside"
+  },
+  {
+    "question": "A bus stops where more than one child is unloaded, which procedure most likely prevents an unloading obstacle?",
+    "options": [
+      "A. The driver counts the students as they disembark before moving",
+      "B. The students cross the street one at a time, not as a group",
+      "C. The driver ensures the students are seated in the bus before leaving the stop"
+    ],
+    "correct": "A. The driver counts the students as they disembark before moving"
+  },
+  {
+    "question": "How should you brake in a bus with ABS brakes?",
+    "options": [
+      "A. Pump the brakes in an emergency situation",
+      "B. Apply the brakes as usual",
+      "C. Apply the brakes and back off the brakes prior to the final brake, to stop"
+    ],
+    "correct": "B. Apply the brakes as usual"
+  },
+  {
+    "question": "What is the most important thing to remember when approaching a school bus stop with students waiting?",
+    "options": [
+      "A. Approach cautiously and be prepared to stop",
+      "B. Accelerate past the stop to avoid delays",
+      "C. Honk the horn to warn students in advance"
+    ],
+    "correct": "A. Approach cautiously and be prepared to stop"
+  },
+  {
+    "question": "What is the primary purpose of the school bus danger zones?",
+    "options": [
+      "A. To show where mirrors need cleaning",
+      "B. To define areas where children are hard to see and most likely to be hit",
+      "C. To help students find better seating positions"
+    ],
+    "correct": "B. To define areas where children are hard to see and most likely to be hit"
+  },
+  {
+    "question": "Which direction should students walk after getting off the bus?",
+    "options": [
+      "A. Walk ahead of the bus in full view of the driver",
+      "B. Walk behind the bus quickly",
+      "C. Walk directly across the street without looking"
+    ],
+    "correct": "A. Walk ahead of the bus in full view of the driver"
+  },
+  {
+    "question": "When approaching a railroad crossing and the gate starts to come down, what must the driver do?",
+    "options": [
+      "A. Keep going to clear the tracks safely",
+      "B. Stop and call for help",
+      "C. Reverse back off the tracks"
+    ],
+    "correct": "A. Keep going to clear the tracks safely"
+  },
+  {
+    "question": "If you miss a student’s stop, what should you do?",
+    "options": [
+      "A. Continue to the next stop and notify dispatch",
+      "B. Back up carefully",
+      "C. Turn around and return to the stop immediately"
+    ],
+    "correct": "A. Continue to the next stop and notify dispatch"
+  },
+  {
+    "question": "Why must students remain seated while the bus is in motion?",
+    "options": [
+      "A. So the driver can focus better",
+      "B. To prevent injury in sudden stops or turns",
+      "C. To avoid getting tired"
+    ],
+    "correct": "B. To prevent injury in sudden stops or turns"
+  },
+  {
+    "question": "What is the correct action if a student drops an item near the school bus?",
+    "options": [
+      "A. Tell the student to leave it and inform the driver",
+      "B. Allow the student to retrieve it quickly",
+      "C. Tell them to wait until other students are gone"
+    ],
+    "correct": "A. Tell the student to leave it and inform the driver"
+  },
+  {
+    "question": "When should the driver check under the bus for sleeping children?",
+    "options": [
+      "A. At the end of every route",
+      "B. Only when assigned by the school",
+      "C. When the weather is cold"
+    ],
+    "correct": "A. At the end of every route"
+  },
+  {
+    "question": "Which type of mirror helps you monitor traffic behind and beside the bus?",
+    "options": [
+      "A. Overhead mirror",
+      "B. Convex side mirrors",
+      "C. Crossover mirrors"
+    ],
+    "correct": "B. Convex side mirrors"
+  },
+  {
+    "question": "What should you do if your bus becomes disabled on a busy highway?",
+    "options": [
+      "A. Activate hazard lights and evacuate students if necessary",
+      "B. Wait for a tow truck with everyone inside",
+      "C. Leave the bus running for air conditioning"
+    ],
+    "correct": "A. Activate hazard lights and evacuate students if necessary"
+  },
+  {
+    "question": "When should you perform a post-trip inspection of the school bus?",
+    "options": [
+      "A. At the end of every route or workday",
+      "B. Only when instructed by your supervisor",
+      "C. Only after long-distance trips"
+    ],
+    "correct": "A. At the end of every route or workday"
+  },
+  {
+    "question": "What must a school bus driver do before backing the bus?",
+    "options": [
+      "A. Turn on hazard lights and check all mirrors and blind spots",
+      "B. Sound the horn twice and reverse quickly",
+      "C. Ask a student to watch from outside"
+    ],
+    "correct": "A. Turn on hazard lights and check all mirrors and blind spots"
+  },
+  {
+    "question": "Which safety equipment must be on board a school bus at all times?",
+    "options": [
+      "A. Fire extinguisher, emergency reflectors, and first aid kit",
+      "B. Spare tires and jumper cables",
+      "C. Flashlight, blanket, and windshield cleaner"
+    ],
+    "correct": "A. Fire extinguisher, emergency reflectors, and first aid kit"
+  },
+  {
+    "question": "When unloading at school, what should the driver do before students leave the bus?",
+    "options": [
+      "A. Secure the bus by placing it in park and setting the parking brake",
+      "B. Open the door immediately to let students exit",
+      "C. Wait for a school staff member to signal"
+    ],
+    "correct": "A. Secure the bus by placing it in park and setting the parking brake"
+  },
+  {
+    "question": "Why should you not allow students to stand or walk while the bus is moving?",
+    "options": [
+      "A. It makes it difficult for the driver to concentrate",
+      "B. It makes the bus appear unsafe",
+      "C. It increases the risk of injury in sudden stops or accidents"
+    ],
+    "correct": "C. It increases the risk of injury in sudden stops or accidents"
+  },
+  {
+    "question": "When approaching a bus stop, you should turn on your alternating flashing amber lights at least how many feet before the stop?",
+    "options": [
+      "A. 100 feet",
+      "B. 150 feet",
+      "C. 200 feet"
+    ],
+    "correct": "C. 200 feet"
+  },
+  {
+    "question": "What does the alternating flashing red light system indicate to other drivers?",
+    "options": [
+      "A. The bus is turning",
+      "B. The bus is stopping to load or unload children",
+      "C. The bus has a mechanical issue"
+    ],
+    "correct": "B. The bus is stopping to load or unload children"
+  },
+  {
+    "question": "When must the school bus driver use the stop arm?",
+    "options": [
+      "A. Only at school property",
+      "B. Whenever loading or unloading students on the roadway",
+      "C. Only when students are crossing the street"
+    ],
+    "correct": "B. Whenever loading or unloading students on the roadway"
+  },
+  {
+    "question": "What is the safest way to approach a school bus stop where students are present?",
+    "options": [
+      "A. Approach slowly and scan mirrors for hazards or movement",
+      "B. Approach normally unless a student is running",
+      "C. Approach quickly to reduce waiting time"
+    ],
+    "correct": "A. Approach slowly and scan mirrors for hazards or movement"
+  },
+  {
+    "question": "If a student refuses to obey the driver’s safety instructions, what should the driver do?",
+    "options": [
+      "A. Stop the bus in a safe location and address the situation calmly",
+      "B. Ignore the behavior until reaching the next stop",
+      "C. Yell at the student to comply immediately"
+    ],
+    "correct": "A. Stop the bus in a safe location and address the situation calmly"
+  },
+  {
+    "question": "When should a school bus driver use the interior overhead mirror?",
+    "options": [
+      "A. To monitor student activity inside the bus",
+      "B. To view the blind spot behind the bus",
+      "C. To check traffic in rear lanes"
+    ],
+    "correct": "A. To monitor student activity inside the bus"
+  },
+  {
+    "question": "What should you do if your bus has an emergency but is not in immediate danger (e.g., flat tire)?",
+    "options": [
+      "A. Pull over safely and notify dispatch",
+      "B. Keep driving until the nearest stop",
+      "C. Evacuate students immediately"
+    ],
+    "correct": "A. Pull over safely and notify dispatch"
+  },
+  {
+    "question": "What is the safest way to cross railroad tracks in a school bus?",
+    "options": [
+      "A. Stop, look, listen, and only proceed when safe",
+      "B. Slow down, turn off the radio, and roll down windows",
+      "C. Approach at 10 mph, then coast across"
+    ],
+    "correct": "A. Stop, look, listen, and only proceed when safe"
+  },
+  {
+    "question": "When driving during fog or heavy rain, the school bus driver should:",
+    "options": [
+      "A. Reduce speed and increase following distance",
+      "B. Use high-beam headlights",
+      "C. Speed up to pass slower vehicles"
+    ],
+    "correct": "A. Reduce speed and increase following distance"
+  },
+  {
+    "question": "If a student leaves a backpack under the bus after unloading, what should the driver do?",
+    "options": [
+      "A. Instruct the student to stay away and retrieve it personally",
+      "B. Let the student crawl under to retrieve it",
+      "C. Ignore it until the next stop"
+    ],
+    "correct": "A. Instruct the student to stay away and retrieve it personally"
+  },
+  {
+    "question": "How often should you check your mirrors when stopped to load or unload students?",
+    "options": [
+      "A. Continuously throughout the process",
+      "B. Just before students exit",
+      "C. Every 10 seconds"
+    ],
+    "correct": "A. Continuously throughout the process"
+  },
+  {
+    "question": "Which mirror shows a wide-angle view of the area along the sides of the bus?",
+    "options": [
+      "A. Flat side mirrors",
+      "B. Convex mirrors",
+      "C. Overhead inside mirror"
+    ],
+    "correct": "B. Convex mirrors"
+  },
+  {
+    "question": "If a bus evacuation is necessary, what should the driver do first?",
+    "options": [
+      "A. Secure the bus and check surroundings",
+      "B. Open all emergency exits",
+      "C. Instruct students to exit as fast as possible"
+    ],
+    "correct": "A. Secure the bus and check surroundings"
+  },
+  {
+    "question": "After unloading at school, what is the most important step before leaving?",
+    "options": [
+      "A. Walk through the bus to check for sleeping children",
+      "B. Close the door and drive off",
+      "C. Call dispatch to confirm drop-off"
+    ],
+    "correct": "A. Walk through the bus to check for sleeping children"
+  },
+  {
+    "question": "If another driver illegally passes your stopped school bus, you should:",
+    "options": [
+      "A. Note the license plate and report it",
+      "B. Chase the driver and confront them",
+      "C. Ignore it unless someone is injured"
+    ],
+    "correct": "A. Note the license plate and report it"
+  },
+  {
+    "question": "What is the correct way to use the stop arm during student unloading?",
+    "options": [
+      "A. Extend it before students leave their seats",
+      "B. Only extend it if students are crossing",
+      "C. Do not use it in residential areas"
+    ],
+    "correct": "A. Extend it before students leave their seats"
+  },
+  {
+    "question": "When are school buses required to stop at all railroad crossings?",
+    "options": [
+      "A. Always, even if no train is in sight",
+      "B. Only during school hours",
+      "C. Only when transporting students"
+    ],
+    "correct": "A. Always, even if no train is in sight"
+  },
+  {
+    "question": "What is the first thing a school bus driver should do after activating the amber warning lights?",
+    "options": [
+      "A. Begin slowing down and prepare to stop",
+      "B. Open the door to warn students",
+      "C. Speed up to reach the stop faster"
+    ],
+    "correct": "A. Begin slowing down and prepare to stop"
+  },
+  {
+    "question": "When checking the safety arm (crossing gate), the driver should ensure it:",
+    "options": [
+      "A. Extends fully and is not damaged",
+      "B. Only works in manual mode",
+      "C. Touches the ground when extended"
+    ],
+    "correct": "A. Extends fully and is not damaged"
+  },
+  {
+    "question": "Why is it dangerous for students to drop items near the bus?",
+    "options": [
+      "A. They may damage the bus",
+      "B. It causes delays",
+      "C. It may lead them into the driver’s blind spot"
+    ],
+    "correct": "C. It may lead them into the driver’s blind spot"
+  },
+  {
+    "question": "What should you do if a student is behaving violently on the bus while driving?",
+    "options": [
+      "A. Pull over when safe and handle the situation",
+      "B. Keep driving and ignore the behavior",
+      "C. Stop immediately in the road"
+    ],
+    "correct": "A. Pull over when safe and handle the situation"
+  },
+  {
+    "question": "What is a driver required to check before operating a school bus?",
+    "options": [
+      "A. That the mirrors are adjusted properly",
+      "B. That the radio is tuned",
+      "C. That all seats are taken"
+    ],
+    "correct": "A. That the mirrors are adjusted properly"
+  },
+  {
+    "question": "After every route, what should the driver do as a legal and safety requirement?",
+    "options": [
+      "A. Walk the entire length of the bus to check for sleeping children",
+      "B. Close the door and leave immediately",
+      "C. Call dispatch before departing"
+    ],
+    "correct": "A. Walk the entire length of the bus to check for sleeping children"
+  },
+  {
+    "question": "Why are school buses painted yellow?",
+    "options": [
+      "A. To enhance visibility and safety",
+      "B. Because it’s cheaper paint",
+      "C. To comply with city ordinances"
+    ],
+    "correct": "A. To enhance visibility and safety"
+  }
+]

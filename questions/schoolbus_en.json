@@ -1,0 +1,502 @@
+[
+  {
+    "question": "A school bus must have at least how many emergency exits?\n✅ C. 2\n❌ A. 4\n❌ B. 1\n🔎 Explanation: School buses must have at least one rear emergency door and either a left side, right side, or roof emergency exit.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What color are all school buses painted?\n✅ C. National school bus yellow\n❌ A. Fluorescent yellow\n❌ B. Orange yellow\n🔎 Explanation: The standard mandated color for school buses in the U.S. is National School Bus Yellow.\n📘 Ref: FMCSA CDL Manual, Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "To be a school bus driver an individual must pass the following written tests:\n✅ A. CDL general knowledge, passenger endorsement, school bus endorsement\n❌ B. CDL general knowledge, air brakes endorsement, school bus endorsement\n❌ C. CDL general knowledge, hazardous materials endorsement, school bus endorsement\n🔎 Explanation: Driving a school bus requires the General Knowledge, Passenger (P), and School Bus (S) endorsements.\n📘 Ref: FMCSA CDL Manual, Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Most states require school bus drivers take a physical examination:\n✅ B. Annually\n❌ A. Every 5 years\n❌ C. Every 3 years\n🔎 Explanation: Most states require annual physical exams to ensure drivers are medically fit to transport students.\n📘 Ref: FMCSA CDL Manual, Section 10.1 (State-specific, but commonly yearly)",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What should you do if you have lost ABS control at some or more wheels?\n✅ B. Drive normally because you still have regular brakes but have the system serviced soon\n❌ A. Call dispatch to report the problem\n❌ C. Drive faster so your ABS yellow malfunction light will go out\n🔎 Explanation: If ABS fails, your service brakes still function, but you should have the system checked immediately.\n📘 Ref: FMCSA CDL Manual, Section 10.2.5",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "How far should students exit the bus and walk?\n✅ B. At least 10 feet away from the side of the bus\n❌ A. The distance it takes to clear the danger zone\n❌ C. At least 8 feet away from the side of the bus\n🔎 Explanation: Students should walk at least 10 feet away from the bus to remain out of the danger zone.\n📘 Ref: FMCSA CDL Manual, Section 10.2.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is a passive railroad crossing?\n✅ B. A railroad crossing that does not have any type of traffic control device\n❌ A. A railroad crossing that is no longer in use\n❌ C. A railroad crossing that has a traffic control device installed at the crossing\n🔎 Explanation: Passive crossings lack gates, lights, or signals and require drivers to be extra cautious.\n📘 Ref: FMCSA CDL Manual, Section 10.3.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "In addition to checking for spare electrical fuses, three red reflective triangles, and a properly charged and rated fire extinguisher, school bus drivers must also inspect the following emergency equipment:\n✅ C. Three red burning flares, a nine-item first aid kit\n❌ A. Three red burning flares, safety belts in all seats\n❌ B. Three flares of any type and alcohol\n🔎 Explanation: Emergency equipment includes red burning flares and a properly stocked first aid kit.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "A battery box check is important. The battery must be secure, connections must be tight, and cell caps must be present. In addition, these items should be checked:\n✅ C. Battery connections should not show signs of excessive corrosion, and the battery box and cover or door should not be damaged and should be secure\n❌ A. Battery connection should show signs of excessive wear\n❌ B. Battery connections should not show signs of excessive corrosion, but the battery box and cover to door is unimportant\n🔎 Explanation: Both battery connections and the enclosure must be secure and free of corrosion or damage.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When checking the handicap lift, the things you should look for are:\n✅ B. Leaking, damaged, or missing parts and make sure the lift is fully retracted and latched\n❌ A. Leaking, damaged, or missing wheelchairs\n❌ C. Leaking, damaged, or missing parts and make sure the lift is 35% retracted and latched\n🔎 Explanation: The lift must be fully retracted, secured, and free of any visible issues or leaks.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the value of the overhead rearview mirror inside the bus?\n✅ A. To monitor passenger activity\n❌ B. To monitor the driver’s appearance\n❌ C. To provide visibility directly in the back of the bus\n🔎 Explanation: The overhead rearview mirror lets the driver observe student behavior inside the bus cabin.\n📘 Ref: FMCSA CDL Manual, Section 10.2.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When should you activate your alternating flashing amber warning lights?\n❌ A. 100 to 300 feet before the school bus stop\n✅ B. 300 to 500 feet before the school bus stop\n❌ C. None of the above\n🔎 Explanation: Amber warning lights must be activated 300–500 feet before the stop to alert traffic of the upcoming stop.\n📘 Ref: FMCSA CDL Manual, Section 10.2.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "At a railroad crossing, the bus is required to stop at the stop line or, if there is no clearly marked stop line, what is the required minimum and maximum stopping distance?\n❌ A. No closer than 15 feet and no further than 30 feet\n❌ B. No closer than 10 feet and no further than 40 feet\n✅ C. No closer than 15 feet and no further than 50 feet\n🔎 Explanation: The law requires a school bus to stop not closer than 15 feet and not further than 50 feet from the tracks.\n📘 Ref: FMCSA CDL Manual, Section 10.3.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Out of all the spaces around the bus, the most important one is:\n❌ A. On the side\n❌ B. To the rear\n✅ C. To the front\n🔎 Explanation: The front of the bus is the most dangerous and important zone because of limited driver visibility and student crossings.\n📘 Ref: FMCSA CDL Manual, Section 10.2.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The bus driver must accept responsibility for supervising and controlling students while on the bus route. Who is the person in charge?\n✅ A. Bus driver\n❌ B. Student on the bus\n❌ C. Parents of students on the bus\n🔎 Explanation: While on the route, the bus driver is fully responsible for the behavior and safety of the passengers.\n📘 Ref: FMCSA CDL Manual, Section 10.2.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The school bus driver may be the only contact person from the school system that some parents meet. The percentage of such parents is as high as:\n❌ A. 50%\n❌ B. 65%\n✅ C. 85%\n🔎 Explanation: Up to 85% of parents only interact with the school system through the bus driver, making professionalism critical.\n📘 Ref: FMCSA CDL Manual, Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The driver who misses unloading a child at the bus stop should:\n✅ A. Radio the dispatch for direction and follow local procedures\n❌ B. Back up to the missed stop\n❌ C. Discharge the child at the next stop\n🔎 Explanation: Never back up or let the student off unsafely—always contact dispatch and follow protocol.\n📘 Ref: FMCSA CDL Manual, Section 10.2.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following statements about bus evacuation procedures is true?\n❌ A. If time allows, walk through the bus and close all the windows\n❌ B. If time allows, back up to the stop before evacuating the bus\n✅ C. If time allows, notify dispatch about the evacuation location, conditions, and type of assistance needed\n🔎 Explanation: If time permits, communication with dispatch is key to ensure coordinated emergency response.\n📘 Ref: FMCSA CDL Manual, Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following is a recommended procedure when unloading students?\n❌ A. Put the transmission in neutral gear and put on the brakes\n❌ B. Position yourself outside of the bus in front of the crossover mirror to supervise\n✅ C. Tell students to remain seated until they are told to exit\n🔎 Explanation: To prevent chaos, students must remain seated until given the signal by the driver.\n📘 Ref: FMCSA CDL Manual, Section 10.2.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The most dangerous time during the school bus ride is:\n❌ A. When the students become unruly on the bus\n❌ B. Crossing railway tracks\n✅ C. When loading and unloading students\n🔎 Explanation: The loading/unloading process presents the highest risk due to traffic and blind spots.\n📘 Ref: FMCSA CDL Manual, Section 10.2.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "After deciding the type of evacuation that is necessary, the next step you must take is:\n✅ A. Securing the bus\n❌ B. Notifying the dispatch office of the evacuation\n❌ C. Dangle the radio microphone out of the driver window for later use\n🔎 Explanation: The first action after deciding to evacuate is to secure the bus to ensure it does not move during the evacuation.\n📘 Ref: FMCSA CDL Manual, Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the safest way to stop unruly behavior on the bus?\n❌ A. Keep checking the rearview mirror so you can see what's happened and report to the principal\n❌ B. Have the unruly students move to the front of the bus\n✅ C. Pull off the road in a safe location, secure the bus, stand up and tell the students what behavior you expect from them\n🔎 Explanation: The driver should stop safely and firmly establish behavior expectations directly.\n📘 Ref: FMCSA CDL Manual, Section 10.2.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following will confirm that you are driving a vehicle with Anti-lock Brakes (ABS)?\n✅ A. Yellow ABS malfunction lamp on the instrument panel will light when you start the engine\n❌ B. The certification on the driver side door\n❌ C. Red indicator lamp on the brake cylinder\n🔎 Explanation: A functional ABS light should appear briefly during startup to confirm the system is working.\n📘 Ref: FMCSA CDL Manual, Section 10.3.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Anti-lock brakes:\n❌ A. Work only when you activate the in-cab switch\n✅ B. Keep your wheels from locking up during hard brake application\n❌ C. Shorten your stopping distance\n🔎 Explanation: ABS helps maintain control during braking but does not reduce stopping distance.\n📘 Ref: FMCSA CDL Manual, Section 10.3.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "You should conduct a post-trip inspection:\n✅ A. You should walk through the bus and around the bus\n❌ B. You should do and report results monthly\n❌ C. You should sweep inside the bus\n🔎 Explanation: A post-trip inspection includes checking for sleeping children and items left behind.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If you are loading students on the road and cannot account for them:\n✅ A. Secure the bus, take the key and check around and underneath the bus\n❌ B. Ask other students if they saw missing persons\n❌ C. Secure the bus and adjust the mirrors\n🔎 Explanation: Student safety requires the driver to check visually, especially around and under the bus.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Passive railway crossing:\n❌ A. The type of crossing with no crossbuck sign\n✅ B. The type of crossing which does not have any type of traffic control device\n❌ C. The type of crossing on which the driver does not have to stop\n🔎 Explanation: Passive crossings lack lights or gates; drivers must stop and look carefully.\n📘 Ref: FMCSA CDL Manual, Section 10.3.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "You should adjust all the outside left and right side convex mirrors to see:\n❌ A. 200 feet behind the bus\n✅ B. The entire area to the rear of the mirror along the side of the bus\n❌ C. The right and left rear tires touching the ground\n🔎 Explanation: Convex mirrors help eliminate blind spots along the sides of the bus.\n📘 Ref: FMCSA CDL Manual, Section 10.2.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What school bus accidents should be reported?\n❌ A. None\n❌ B. Only if there are injuries\n✅ C. All\n🔎 Explanation: All accidents, regardless of severity, must be reported per school bus safety regulations.\n📘 Ref: FMCSA CDL Manual, Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When approaching a school bus stop, you should activate your overhead amber lights how far from the stop?\n❌ A. 100 feet\n❌ B. 200 feet\n✅ C. 300 feet\n🔎 Explanation: Amber warning lights must be activated 300–500 feet before the stop to alert other drivers.\n📘 Ref: FMCSA CDL Manual, Section 10.2.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the most important reason for doing a school bus inspection?\n❌ A. To give the mechanic something to do\n❌ B. To assist the principal with their report\n✅ C. For safety required by federal, state and local laws\n🔎 Explanation: Inspections are legally required and crucial to ensure the safety of students and others on the road.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Immediately after stopping you should\n❌ A. Tell the children to stand back until you are ready for them to load\n✅ B. Open entrance door slightly to activate the stop alarm and overhead red warning lights\n❌ C. Get the children onto the bus as quickly as possible\n🔎 Explanation: Slightly opening the door activates the red warning lights, signaling traffic to stop before children load or unload.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When approaching the stop, you should activate alternating flashing lights within how many feet before the stop?\n❌ A. 100\n❌ B. 200\n✅ C. 300\n🔎 Explanation: The red or amber warning lights must be activated 200 to 300 feet before the stop to alert surrounding drivers.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the next step after securing the bus when you have unruly child on board?\n✅ A. Stand up and speak respectfully to the offender, if a change of seating is needed, have the student move to a seat near you.\n❌ B. Unload the students at the next stop\n❌ C. Call a school administrator or the police to remove the student\n🔎 Explanation: The driver should try to manage the situation calmly and safely before escalating the issue.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "You should adjust all the outside left and right side CROSSOVER mirrors to see:\n❌ A. 200 feet behind the bus\n❌ B. The entire area to the rear of the mirror along the side of the bus\n✅ C. The left and right front tires touching the ground\n🔎 Explanation: CROSSOVER mirrors help the driver see the danger zones directly in front of the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Overhead inside mirror is used:\n❌ A. To see the blind spot immediately behind the bus\n✅ B. To see all of the students\n❌ C. To monitor traffic that approaches and enters the blind spot area\n🔎 Explanation: The overhead mirror lets the driver monitor student activity inside the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When students must cross the street, when they get off the bus, which statement is true?\n❌ A. When the driver signals that it is safe to proceed, the student must run across the street to reduce exposure to danger\n✅ B. For crossing students should make eye contact with the bus driver and wait for the driver signal that it is safe to proceed\n❌ C. If the bus is equipped with the crossing gate, the danger of running over a child is eliminated\n🔎 Explanation: Students must always make eye contact with the driver and wait for a signal to cross.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "You should adjust all the outside left and right side flat mirrors to see\n❌ A. 200 feet behind the bus\n❌ B. The entire area to the rear of the mirror along the side of the bus\n✅ C. The rear right and left tires touching the ground\n🔎 Explanation: Flat mirrors should show the sides of the bus and the rear tires, which are important when turning or changing lanes.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If the gate comes down as you start to cross the railroad highway crossing you should:\n✅ A. Drive through the gate\n❌ B. Stop immediately and call your dispatcher\n❌ C. Back up until you are completely off the tracks\n🔎 Explanation: You must continue moving forward and clear the tracks, even if it means breaking the gate, to avoid being struck by a train.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "During loading and unloading students you should check your mirrors\n❌ A. After entering traffic\n❌ B. After you close the door\n✅ C. Continuously during the entire process\n🔎 Explanation: You must monitor all mirrors constantly during the loading and unloading process to ensure all students are clear of the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Before crossing any highway-rail crossing in a school bus, be sure that bus has enough containment to completely clear the railroad tracks. As a general rule, how much space is considered an acceptable amount of containment for a school bus?\n✅ A. The length of the bus plus 25 feet\n❌ B. The length of the bus plus 15 feet\n❌ C. The length of the bus plus 10 feet\n🔎 Explanation: You must ensure the entire bus can clear the tracks with enough additional room—25 feet is the recommended minimum.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The properly adjusted outside left and right side convex mirrors allow visibility in\n❌ A. The entire side of the bus up to the front tires at ground level, front of the rear tires touching the ground and at least one traffic lane on either side of the bus\n❌ B. The area directly in front of the bus\n✅ C. Front of the rear tires touching the ground, the entire side of the bus up to the mirror mounts and at least one traffic lane on either side of the bus\n🔎 Explanation: Convex mirrors help cover large side areas and blind spots, including traffic lanes and ground near rear tires.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why is the proper adjustment and use of all mirrors so vital to the safe operation of a school bus?\n❌ A. In order to observe the danger zone around the bus\n❌ B. In order to clear up blind spots around the bus\n✅ C. In order to observe the danger zone around the bus and look for students, traffic and other objects in this area\n🔎 Explanation: Mirrors are essential to monitor danger zones, traffic, and students to prevent accidents.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "All mirrors should be viewed in what manner?\n❌ A. Simultaneously every 4 seconds\n❌ B. In a logical sequence checking traffic and passengers every 5 seconds\n✅ C. In a logical sequence to ensure that a child or object is not in any of the danger zones\n🔎 Explanation: You must follow a systematic mirror-checking pattern to spot any hazards around the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.1–10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following statements best explains what to do, when a school bus stalls on a track at a railroad crossing?\n❌ A. Driver should evacuate the bus and have students in a group directly behind the bus\n✅ B. Driver should evacuate the bus and move students away from the tracks on the angle toward the oncoming train\n❌ C. Driver should keep everyone quiet and call dispatcher for directions\n🔎 Explanation: Evacuate immediately and lead students diagonally toward the train to avoid being hit by debris.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "You should activate hazard lights within approximately how many feet before a railroad crossing?\n❌ A. 200 feet\n✅ B. 300 feet\n❌ C. 400 feet\n🔎 Explanation: Turn on hazard lights 200–300 feet in advance to warn traffic behind you.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "School bus is one of the safest means of transportation. What two key factors contribute to this impressive safety record?\n❌ A. Vehicles and police\n✅ B. Vehicles and drivers\n❌ C. Vehicles and road conditions\n🔎 Explanation: The safety of buses depends on well-designed vehicles and trained, responsible drivers.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The golden rule for school buses when approaching and crossing railroad tracks is:\n❌ A. Stop, go and stop\n✅ B. Stop, look and listen\n❌ C. Stop, look and turn off the radio\n🔎 Explanation: Always stop, look both ways, and listen for trains before crossing railroad tracks.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following is a reason to evacuate the school bus?\n❌ A. The bus ABS warning light is on\n✅ B. The bus is stalled on a railroad track but there is no train in sight\n❌ C. The bus is stalled on a shoulder of a 4-lane divided highway and it is getting hot inside\n🔎 Explanation: A bus stalled on railroad tracks poses immediate risk and requires evacuation regardless of visible danger.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The blind spot behind the bus could extend to how many feet?\n❌ A. 100\n❌ B. 200\n✅ C. 400\n🔎 Explanation: The blind spot behind a school bus can extend up to 400 feet—this is why proper mirror use is critical.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "By law, school buses must be equipped with a ___ light overhead warning system as a method of controlling traffic at a school bus stop.\n❌ A. Four\n❌ B. Six\n✅ C. Eight\n🔎 Explanation: School buses are required to have an 8-light system (4 amber and 4 red) to alert drivers that the bus is slowing and stopping.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "By law, the warning lights must only be used when approaching\n❌ A. A busy intersection\n✅ B. Stop to load or unload students\n❌ C. Sharp turns\n🔎 Explanation: The amber and red flashing warning lights are strictly for use when loading or unloading students.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When stopping at a railroad crossing, the driver must stop no closer than\n❌ A. 10 feet\n❌ B. 15 feet\n✅ C. 20 feet\n🔎 Explanation: School buses must stop between 15 and 50 feet from the nearest rail, but 20 feet is the required minimum stopping distance.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following should you do when driving the school bus in high wind?\n❌ A. Speed up to get away from the wind as quickly as possible\n✅ B. Keep a strong grip on the steering wheel and try to anticipate gust\n❌ C. Avoid pulling off the road to wait\n🔎 Explanation: High-profile vehicles like school buses are vulnerable to wind gusts; anticipate them and keep firm control.\n📘 Ref: FMCSA CDL Manual – General Driving Tips",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "The CDL manual indicates that the last step for picking up students at the bus stop is as follows:\n✅ A. Make a final check to confirm all traffic stops before opening the bus door and signaling to students to approach\n❌ B. Open the service door just enough to activate the alternating red light when traffic is in a safe distance from the bus\n❌ C. Place the transmission in park or neutral and set the parking brake\n🔎 Explanation: The final step is ensuring all traffic has stopped before signaling students to approach.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which of the following statements about special danger of loading and unloading students is true?\n✅ A. Students should be told to leave any dropped objects and move to the point of safety out of danger and get the driver’s attention to retrieve the object\n❌ B. Students should be told not to use the handrails when exiting the bus due to the possibility of causing clothing to hang up\n❌ C. Students should be told to pick up any dropped objects as long as they are not under the bus\n🔎 Explanation: Students should never attempt to retrieve dropped items without driver instruction—it’s a critical danger zone.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "During loading or unloading procedure the students should cross the road in front of the bus within ___ feet\n❌ A. 6\n✅ B. 8\n❌ C. 10\n🔎 Explanation: Students must cross within approximately 8–10 feet in front of the bus where the driver can see them at all times.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why is understanding the loading and unloading procedure so critical?\n❌ A. Because only high school students understand how to cross the road\n✅ B. Because more students are killed while getting on and off a school bus each year\n❌ C. Because motorists ignore students walking to school\n🔎 Explanation: Most fatalities occur during loading/unloading, not while riding the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Check that the entry door is not damaged and\n❌ A. Operates smoothly and closes securely from the outside\n✅ B. Operates smoothly and closes securely from the inside\n❌ C. Operates smoothly and closes securely from the remote location\n🔎 Explanation: Entry doors should be inspected from inside the bus during the pre-trip inspection.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "A bus stops where more than one child is unloaded, which procedure most likely prevents an unloading obstacle?\n✅ A. The driver counts the students as they disembark before moving\n❌ B. The students cross the street one at a time, not as a group\n❌ C. The driver ensures the students are seated in the bus before leaving the stop\n🔎 Explanation: Counting students ensures none are in the danger zone or stuck near the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "How should you brake in a bus with ABS brakes?\n❌ A. Pump the brakes in an emergency situation\n✅ B. Apply the brakes as usual\n❌ C. Apply the brakes and back off the brakes prior to the final brake, to stop\n🔎 Explanation: With ABS, apply steady pressure—do not pump the brakes. The system will adjust brake pressure automatically.\n📘 Ref: FMCSA CDL Manual – Section 2.17",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the most important thing to remember when approaching a school bus stop with students waiting?\n✅ A. Approach cautiously and be prepared to stop\n❌ B. Accelerate past the stop to avoid delays\n❌ C. Honk the horn to warn students in advance\n🔎 Explanation: Always approach cautiously—students may unexpectedly enter the danger zone.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the primary purpose of the school bus danger zones?\n❌ A. To show where mirrors need cleaning\n✅ B. To define areas where children are hard to see and most likely to be hit\n❌ C. To help students find better seating positions\n🔎 Explanation: Danger zones surround the bus, especially near wheels and front bumper, where visibility is poor.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which direction should students walk after getting off the bus?\n✅ A. Walk ahead of the bus in full view of the driver\n❌ B. Walk behind the bus quickly\n❌ C. Walk directly across the street without looking\n🔎 Explanation: Students should always walk in front of the bus and make eye contact with the driver.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When approaching a railroad crossing and the gate starts to come down, what must the driver do?\n✅ A. Keep going to clear the tracks safely\n❌ B. Stop and call for help\n❌ C. Reverse back off the tracks\n🔎 Explanation: Never stop on the tracks. Continue through even if the gate is lowering.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If you miss a student’s stop, what should you do?\n✅ A. Continue to the next stop and notify dispatch\n❌ B. Back up carefully\n❌ C. Turn around and return to the stop immediately\n🔎 Explanation: Never back up the bus. Proceed safely and inform the student and school.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why must students remain seated while the bus is in motion?\n❌ A. So the driver can focus better\n✅ B. To prevent injury in sudden stops or turns\n❌ C. To avoid getting tired\n🔎 Explanation: Moving students can be thrown from their seats during sudden stops or turns.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the correct action if a student drops an item near the school bus?\n✅ A. Tell the student to leave it and inform the driver\n❌ B. Allow the student to retrieve it quickly\n❌ C. Tell them to wait until other students are gone\n🔎 Explanation: Items near the bus are in the danger zone. The driver must retrieve them safely.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When should the driver check under the bus for sleeping children?\n✅ A. At the end of every route\n❌ B. Only when assigned by the school\n❌ C. When the weather is cold\n🔎 Explanation: It's mandatory to check for students left behind after each trip.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which type of mirror helps you monitor traffic behind and beside the bus?\n❌ A. Overhead mirror\n✅ B. Convex side mirrors\n❌ C. Crossover mirrors\n🔎 Explanation: Convex mirrors cover wide angles including lanes on both sides of the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What should you do if your bus becomes disabled on a busy highway?\n✅ A. Activate hazard lights and evacuate students if necessary\n❌ B. Wait for a tow truck with everyone inside\n❌ C. Leave the bus running for air conditioning\n🔎 Explanation: Always ensure student safety first—evacuate if conditions require.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When should you perform a post-trip inspection of the school bus?\n✅ A. At the end of every route or workday\n❌ B. Only when instructed by your supervisor\n❌ C. Only after long-distance trips\n🔎 Explanation: Post-trip inspections help ensure no sleeping children or mechanical issues are missed.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What must a school bus driver do before backing the bus?\n✅ A. Turn on hazard lights and check all mirrors and blind spots\n❌ B. Sound the horn twice and reverse quickly\n❌ C. Ask a student to watch from outside\n🔎 Explanation: School buses should avoid backing, but if necessary, it must be done with full safety checks.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which safety equipment must be on board a school bus at all times?\n✅ A. Fire extinguisher, emergency reflectors, and first aid kit\n❌ B. Spare tires and jumper cables\n❌ C. Flashlight, blanket, and windshield cleaner\n🔎 Explanation: These are federally required emergency items on all school buses.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When unloading at school, what should the driver do before students leave the bus?\n✅ A. Secure the bus by placing it in park and setting the parking brake\n❌ B. Open the door immediately to let students exit\n❌ C. Wait for a school staff member to signal\n🔎 Explanation: Bus must be fully secured before any students exit.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why should you not allow students to stand or walk while the bus is moving?\n❌ A. It makes it difficult for the driver to concentrate\n❌ B. It makes the bus appear unsafe\n✅ C. It increases the risk of injury in sudden stops or accidents\n🔎 Explanation: Students must be seated at all times to prevent serious injuries.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When approaching a bus stop, you should turn on your alternating flashing amber lights at least how many feet before the stop?\n❌ A. 100 feet\n❌ B. 150 feet\n✅ C. 200 feet\n🔎 Explanation: Amber lights must be activated 200–300 feet before the stop.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What does the alternating flashing red light system indicate to other drivers?\n❌ A. The bus is turning\n✅ B. The bus is stopping to load or unload children\n❌ C. The bus has a mechanical issue\n🔎 Explanation: Red lights warn traffic that students are entering or exiting the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When must the school bus driver use the stop arm?\n❌ A. Only at school property\n✅ B. Whenever loading or unloading students on the roadway\n❌ C. Only when students are crossing the street\n🔎 Explanation: The stop arm must be used every time students are loading/unloading where traffic is present.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the safest way to approach a school bus stop where students are present?\n✅ A. Approach slowly and scan mirrors for hazards or movement\n❌ B. Approach normally unless a student is running\n❌ C. Approach quickly to reduce waiting time\n🔎 Explanation: Slow, cautious approaches reduce the chance of hitting students in the danger zone.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If a student refuses to obey the driver’s safety instructions, what should the driver do?\n✅ A. Stop the bus in a safe location and address the situation calmly\n❌ B. Ignore the behavior until reaching the next stop\n❌ C. Yell at the student to comply immediately\n🔎 Explanation: The driver must manage student behavior calmly and safely to avoid distractions.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When should a school bus driver use the interior overhead mirror?\n✅ A. To monitor student activity inside the bus\n❌ B. To view the blind spot behind the bus\n❌ C. To check traffic in rear lanes\n🔎 Explanation: The overhead interior mirror is designed to observe all passengers and their behavior.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What should you do if your bus has an emergency but is not in immediate danger (e.g., flat tire)?\n✅ A. Pull over safely and notify dispatch\n❌ B. Keep driving until the nearest stop\n❌ C. Evacuate students immediately\n🔎 Explanation: Stop safely, stay calm, and contact the proper authority for assistance.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the safest way to cross railroad tracks in a school bus?\n✅ A. Stop, look, listen, and only proceed when safe\n❌ B. Slow down, turn off the radio, and roll down windows\n❌ C. Approach at 10 mph, then coast across\n🔎 Explanation: The golden rule is: stop, look, and listen — proceed only when absolutely clear.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When driving during fog or heavy rain, the school bus driver should:\n✅ A. Reduce speed and increase following distance\n❌ B. Use high-beam headlights\n❌ C. Speed up to pass slower vehicles\n🔎 Explanation: Visibility is reduced; increase safety margins and avoid sudden moves.\n📘 Ref: FMCSA CDL Manual – General Driving Conditions",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If a student leaves a backpack under the bus after unloading, what should the driver do?\n✅ A. Instruct the student to stay away and retrieve it personally\n❌ B. Let the student crawl under to retrieve it\n❌ C. Ignore it until the next stop\n🔎 Explanation: Anything under the bus is within the danger zone. The driver must handle it.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "How often should you check your mirrors when stopped to load or unload students?\n✅ A. Continuously throughout the process\n❌ B. Just before students exit\n❌ C. Every 10 seconds\n🔎 Explanation: Constant mirror checks are essential to avoid missing a student in a blind spot.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Which mirror shows a wide-angle view of the area along the sides of the bus?\n❌ A. Flat side mirrors\n✅ B. Convex mirrors\n❌ C. Overhead inside mirror\n🔎 Explanation: Convex mirrors help monitor traffic and movement along both sides of the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If a bus evacuation is necessary, what should the driver do first?\n✅ A. Secure the bus and check surroundings\n❌ B. Open all emergency exits\n❌ C. Instruct students to exit as fast as possible\n🔎 Explanation: The driver must secure the scene before moving students to safety.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "After unloading at school, what is the most important step before leaving?\n✅ A. Walk through the bus to check for sleeping children\n❌ B. Close the door and drive off\n❌ C. Call dispatch to confirm drop-off\n🔎 Explanation: Always inspect the entire bus for remaining students—required by law in many states.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "If another driver illegally passes your stopped school bus, you should:\n✅ A. Note the license plate and report it\n❌ B. Chase the driver and confront them\n❌ C. Ignore it unless someone is injured\n🔎 Explanation: Stay calm, avoid escalation, and report the incident safely afterward.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the correct way to use the stop arm during student unloading?\n✅ A. Extend it before students leave their seats\n❌ B. Only extend it if students are crossing\n❌ C. Do not use it in residential areas\n🔎 Explanation: The stop arm must be used for all student loading/unloading to alert traffic, regardless of whether students cross.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When are school buses required to stop at all railroad crossings?\n✅ A. Always, even if no train is in sight\n❌ B. Only during school hours\n❌ C. Only when transporting students\n🔎 Explanation: By law, school buses must always stop at railroad crossings, even if empty.\n📘 Ref: FMCSA CDL Manual – Section 10.3",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is the first thing a school bus driver should do after activating the amber warning lights?\n✅ A. Begin slowing down and prepare to stop\n❌ B. Open the door to warn students\n❌ C. Speed up to reach the stop faster\n🔎 Explanation: Amber lights signal you are preparing to stop; reduce speed smoothly.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "When checking the safety arm (crossing gate), the driver should ensure it:\n✅ A. Extends fully and is not damaged\n❌ B. Only works in manual mode\n❌ C. Touches the ground when extended\n🔎 Explanation: The safety arm should extend outward fully to guide students in front of the bus and must be in good condition.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why is it dangerous for students to drop items near the bus?\n❌ A. They may damage the bus\n❌ B. It causes delays\n✅ C. It may lead them into the driver’s blind spot\n🔎 Explanation: Students reaching under or near the bus may disappear from the driver’s view, putting them at risk.\n📘 Ref: FMCSA CDL Manual – Section 10.2",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What should you do if a student is behaving violently on the bus while driving?\n✅ A. Pull over when safe and handle the situation\n❌ B. Keep driving and ignore the behavior\n❌ C. Stop immediately in the road\n🔎 Explanation: Pull over at a safe location and address the issue calmly and safely.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "What is a driver required to check before operating a school bus?\n✅ A. That the mirrors are adjusted properly\n❌ B. That the radio is tuned\n❌ C. That all seats are taken\n🔎 Explanation: Pre-trip inspection includes ensuring mirrors are adjusted for proper visibility.\n📘 Ref: FMCSA CDL Manual – Section 10.1",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "After every route, what should the driver do as a legal and safety requirement?\n✅ A. Walk the entire length of the bus to check for sleeping children\n❌ B. Close the door and leave immediately\n❌ C. Call dispatch before departing\n🔎 Explanation: A final check prevents tragic incidents involving children left on the bus.\n📘 Ref: FMCSA CDL Manual – Section 10.4",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "question": "Why are school buses painted yellow?\n✅ A. To enhance visibility and safety\n❌ B. Because it’s cheaper paint\n❌ C. To comply with city ordinances\n🔎 Explanation: Yellow is one of the most visible colors in both daylight and low-light conditions, making it ideal for safety.\n📘 Ref: FMCSA CDL Manual – Introduction / Safety Standards",
+    "options": [],
+    "correct": ""
+  }
+]

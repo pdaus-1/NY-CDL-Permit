@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  NY CDL Permit
+
+  Created by PDA-Jacky on 4/12/25.
+  
+*/
+"homeWelcome" = "欢迎使用纽约CDL许可学习应用。\n提供多语言练习题，助您轻松通过考试。";
+"selectSubject" = "选择科目";
+"invalidPhoneNumber" = "电话号码无效，必须为10位数字。";
+"codeSentSuccess" = "验证码已发送。";
+"enterPhone" = "输入电话号码";
+"sendCode" = "发送验证码";
+"enterCode" = "输入验证码";
+"confirm" = "确认";
+"notAuthorized" = "❌ 您的电话号码尚未授权，请联系J&S School。";
+"error" = "错误";
+"firebaseError" = "Firebase出现错误，请重试";
+"resultTitle" = "您的结果";
+"yourScore" = "得分";
+"pass" = "🎉 通过了！";
+"fail" = "❌ 未通过";
+"tryAgain" = "再试一次";
+"exit" = "退出";
+"question" = "题目";
+"core" = "一般知识 (Core)";
+"airbrake" = "空气制动 (Air Brake)";
+"combination" = "联合车辆 (Combination)";
+"passenger" = "载客车辆 (Passenger)";
+"schoolbus" = "校车驾驶 (School Bus)";
+"unanswered" = "您还有未回答的题目，要回去检查吗？";
+"yes" = "是";
+"no" = "否";
+"next" = "下一题";
+"finish" = "完成";
+"poweredByPDA" = "⚠️ 本应用由PDA提供技术支持。所有版权严格保留，未经PDA书面授权，严禁使用、复制或传播。⚠️";
+"emptyPhoneNumber" = "请输入手机号。";
+"invalidVerificationCode" = "验证码错误，请检查后重新输入。";
+"tooManyRequests" = "请求过于频繁，请稍后再试。";
+"userDisabled" = "该账户已被禁用。";
+"networkError" = "网络错误，请检查网络连接。";
+"invalidPhoneNumber" = "无效的手机号格式。";
+"unknownError" = "发生未知错误，请稍后再试。";
+"appCheckFailed" = "App Check 失败，请确认 App 配置或使用真实设备。";
